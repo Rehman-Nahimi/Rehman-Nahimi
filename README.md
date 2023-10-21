@@ -1,4 +1,4 @@
-Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rehman Nahimi
+Hi! My name is Rehman Nahimi
 =====================================================================================================================================
 
 My name is Rehman (known as Ray). I've been teaching myself Swift and progressing my knowledge in it so I can fully understand it. I'm very quick at learning, and because of this I work in many other sectors and industries. Hit me up on anything I love trying to solve challenges and helping out.
