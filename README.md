@@ -1,16 +1,25 @@
-### Hi there 👋
+Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)My name is Rehman Nahimi
+=====================================================================================================================================
 
-<!--
-**Rehman-Nahimi/Rehman-Nahimi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+My name is Rehman (known as Ray). I've been teaching myself Swift and progressing my knowledge in it so I can fully understand it. I'm very quick at learning, and because of this I work in many other sectors and industries. Hit me up on anything I love trying to solve challenges and helping out.
 
-Here are some ideas to get you started:
+* 🌍  I'm based in London
+* ✉️  You can contact me at [rehman2000@live.com](mailto:rehman2000@live.com)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### Skills
+
+
+<p align="left">
+<a href="https://developer.apple.com/swift/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/swift-colored.svg" width="36" height="36" alt="Swift" /></a><a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/git-colored.svg" width="36" height="36" alt="Git" /></a>
+</p>
+
+
+### Socials
+
+<p align="left"> <a href="https://www.github.com/Rehman-Nahimi" target="_blank" rel="noreferrer"> <picture> <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github-dark.svg" /> <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" /> <img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/socials/github.svg" width="32" height="32" /> </picture> </a></p>
+
+### Badges
+
+<b>My GitHub Stats</b>
+
+<a href="http://www.github.com/Rehman-Nahimi"><img src="https://github-readme-streak-stats.herokuapp.com/?user=Rehman-Nahimi&stroke=ffffff&background=1c1917&ring=ef4444&fire=ef4444&currStreakNum=ffffff&currStreakLabel=ef4444&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" /></a>
